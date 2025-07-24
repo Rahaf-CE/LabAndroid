@@ -68,6 +68,7 @@ Highlight properties with offers
 🚪 Logout
 
 🗃️ Tech Stack
+
 Layer	Tech
 Language	Java
 IDE	Android Studio
@@ -77,6 +78,7 @@ State Storage	SharedPreferences
 Image	Glide (for profile pics)
 
 🚀 How to Run
+
 Open in Android Studio
 
 Connect emulator or device
@@ -84,6 +86,7 @@ Connect emulator or device
 Run the app
 
 🔑 Admin Static Login
+
 pgsql
 Copy
 Edit
@@ -91,6 +94,7 @@ Email: admin@admin.com
 Password: Admin123!
 
 🔮 Future Work
+
 Firebase integration
 
 Email verification via SMTP or Firebase
